@@ -11,10 +11,6 @@ body{
     flex-direction: column;
     justify-content: center;
 }
-.container .night{
-    background-color: black;
-    color: white;
-}
 
 .top-container{
     margin-top: 5rem;
@@ -31,10 +27,6 @@ body{
 .city-name, .temp{
     font-size: 40px;
     font-weight: bold;
-}
-
-.top-container .night{
-    background-image: url("/images/night.jpg");
 }
 
 div.table-container{
